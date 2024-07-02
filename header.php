@@ -70,7 +70,7 @@
           {
             echo(
               "
-              <li><a class='login' href='login.php'>Sign In</a></li>
+              <li><a class='login' href='login.php'>Login</a></li>
               <li><a class='signup' href='signup.php'>Sign Up</a></li>
             ");
           }
